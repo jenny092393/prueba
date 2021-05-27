@@ -19,5 +19,22 @@ MySQL / MariaDB
 
 # Boton Buscar
 
-Incresa el nombre que quiere buscar
+Incresa el nombre que quiere buscar.
+
 -![image](https://user-images.githubusercontent.com/47337644/119894483-472e7980-bf02-11eb-9e28-6665f06820d3.png)
+ 
+ # Vista Previa
+ 
+ Dando click en la foto que deseas puedes ver la imagen mas grande para observarla con mejor detalle.
+ 
+ ![image](https://user-images.githubusercontent.com/47337644/119894598-6927fc00-bf02-11eb-88ca-561a5f138f48.png)
+
+# view, likes, tags 
+
+Puedes ver la cantidad de vista que tiene, los megustas y los tgs relacionados y boton de Close Windows es funcional.
+
+![image](https://user-images.githubusercontent.com/47337644/119894775-a4c2c600-bf02-11eb-85f7-c4642810e2bc.png)
+
+Se utilizo la plantillas de bootstrap startbootstrap-freelancer.
+
+
