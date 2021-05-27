@@ -35,6 +35,6 @@ Puedes ver la cantidad de vista que tiene, los megusta y los tgs relacionados y 
 
 ![image](https://user-images.githubusercontent.com/47337644/119894775-a4c2c600-bf02-11eb-85f7-c4642810e2bc.png)
 
-Se utilizo la plantillas de bootstrap startbootstrap-freelancer.
+Se utilizo la plantilla de bootstrap startbootstrap-freelancer.
 
 
