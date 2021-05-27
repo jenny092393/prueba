@@ -19,7 +19,7 @@ MySQL / MariaDB
 
 # Boton Buscar
 
-Incresa el nombre que quiere buscar.
+Ingresa el nombre que quiere buscar.
 
 -![image](https://user-images.githubusercontent.com/47337644/119894483-472e7980-bf02-11eb-9e28-6665f06820d3.png)
  
@@ -31,7 +31,7 @@ Incresa el nombre que quiere buscar.
 
 # view, likes, tags 
 
-Puedes ver la cantidad de vista que tiene, los megustas y los tgs relacionados y boton de Close Windows es funcional.
+Puedes ver la cantidad de vista que tiene, los megusta y los tgs relacionados y boton de Close Windows es funcional.
 
 ![image](https://user-images.githubusercontent.com/47337644/119894775-a4c2c600-bf02-11eb-85f7-c4642810e2bc.png)
 
